@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sheep!</string>
+    <string name="play_label">Play</string>
+    <string name="menu_easy_mode">Play in Easy Mode</string>
+    <string name="menu_normal_mode">Play in Normal Mode</string>
+    <string name="menu_unfair_mode">Play in Unfair Mode</string>
+    <string name="sound_on_label">Sound On</string>
+    <string name="sound_off_label">Sound Off</string>
+    <string name="title_screen_label">Title Screen</string>
+    <string name="explode_label">Explode</string>
+    <string name="sound_shortcut">s</string>
+    <string name="title_screen_shortcut">t</string>
+    <string name="explode_shortcut">x</string>
+
+</resources>
